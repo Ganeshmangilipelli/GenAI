@@ -1,96 +1,261 @@
-# 🚀 Generative AI Learning Journey
+<div align="center">
 
-This repository contains my hands-on learning, coding exercises, notes, and projects while studying **Generative AI** through the **Complete Generative AI Course by Krish Naik (Udemy)**.
+# 🚀 Generative AI with LangChain & LangGraph
 
-The goal of this repository is to build a strong foundation in **Python, Machine Learning, NLP, LLMs, RAG, AI Agents, LangChain, LangGraph, and Generative AI application development** by implementing concepts through practical examples.
+### A Hands-on Journey into Modern AI Engineering
+
+<p>
+Daily implementations, projects, and experiments while learning <b>Generative AI</b>, <b>LangChain</b>, <b>LangGraph</b>, <b>RAG</b>, <b>AI Agents</b>, and <b>LLM Applications</b>.
+</p>
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![LangChain](https://img.shields.io/badge/LangChain-Framework-success)
+![LangGraph](https://img.shields.io/badge/LangGraph-AI-orange)
+![OpenAI](https://img.shields.io/badge/LLMs-GenerativeAI-purple)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+</div>
 
 ---
 
-## 📚 Course Topics Covered
+# 📖 About
 
-- Python Programming
-- Object-Oriented Programming (OOP)
+This repository documents my learning journey into **Generative AI Engineering**.
+
+I am currently following **Krish Naik's Generative AI with LangChain & LangGraph** course while building projects, completing hands-on implementations, and exploring modern AI technologies.
+
+Instead of only watching tutorials, I believe in **learning by building**. Every concept I learn is implemented, tested, and pushed to this repository.
+
+---
+
+# 🎯 Learning Objectives
+
+- Build strong Generative AI fundamentals
+- Master LangChain and LangGraph
+- Develop AI Agents
+- Implement Retrieval-Augmented Generation (RAG)
+- Work with Vector Databases
+- Build Production-ready LLM Applications
+- Learn Prompt Engineering
+- Understand AI Deployment
+- Gain practical AI Engineering experience
+
+---
+
+# 📚 Topics Covered
+
+## Python Fundamentals
+
+- Variables
+- Functions
+- OOP
 - Exception Handling
 - File Handling
-- NumPy & Pandas
-- Data Visualization
-- Machine Learning Fundamentals
-- Natural Language Processing (NLP)
-- Transformers
-- Vector Databases
-- Embeddings
-- Prompt Engineering
-- Large Language Models (LLMs)
-- LangChain
-- LangGraph
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Multi-Agent Systems
-- Model Deployment
 
 ---
 
-## 🛠 Tech Stack
+## Machine Learning Basics
 
-- Python
 - NumPy
 - Pandas
-- Matplotlib
-- Scikit-learn
-- NLTK
-- OpenAI API
-- LangChain
-- LangGraph
+- Data Preprocessing
+- Scikit-Learn
+
+---
+
+## Natural Language Processing
+
+- Tokenization
+- Stemming
+- Lemmatization
+- Named Entity Recognition
+- Text Processing
+
+---
+
+## Large Language Models
+
+- Prompt Engineering
+- OpenAI APIs
+- Google Gemini
+- Hugging Face
+- LLM Workflows
+
+---
+
+## LangChain
+
+- Prompt Templates
+- Output Parsers
+- Chains
+- Sequential Chains
+- LCEL
+- Memory
+- Tools
+- Agents
+- Document Loaders
+- Text Splitters
+
+---
+
+## Vector Databases
+
+- Embeddings
 - ChromaDB
 - FAISS
 - Pinecone
-- Streamlit
-- FastAPI
-- Docker
+- Similarity Search
 
 ---
 
-## 📂 Repository Structure
+## Retrieval-Augmented Generation (RAG)
 
-```text
-GenAI/
-│── 1-python-basics/
-│── 2-OOP/
-│── 3-Exception-Handling/
-│── 4-Functions/
-│── 5-Modules/
-│── 6-NumPy/
-│── 7-Pandas/
-│── 8-Machine-Learning/
-│── 9-NLP/
-│── 10-LLMs/
-│── Projects/
-│── requirements.txt
-└── README.md
+- Document Processing
+- Chunking
+- Embeddings
+- Semantic Search
+- Hybrid Search
+- Context Retrieval
+
+---
+
+## LangGraph
+
+- Graph Workflows
+- Stateful Applications
+- Multi-Agent Systems
+- Conditional Edges
+- Human-in-the-Loop
+
+---
+
+## AI Agents
+
+- Tool Calling
+- Agentic Workflows
+- Multi-Agent Collaboration
+- Reasoning Agents
+
+---
+
+## Deployment
+
+- FastAPI
+- Docker
+- Streamlit
+- Cloud Deployment
+
+---
+
+# 📂 Repository Structure
+
+```
+Generative-AI/
+
+│── 01_Python/
+│── 02_Machine_Learning/
+│── 03_NLP/
+│── 04_LangChain/
+│── 05_Vector_Database/
+│── 06_RAG/
+│── 07_LangGraph/
+│── 08_AI_Agents/
+│── 09_Projects/
+│── 10_Deployment/
+│── README.md
 ```
 
 ---
 
-## 🎯 Learning Objectives
+# 🛠 Tech Stack
 
-- Strengthen Python programming skills
-- Understand Machine Learning and NLP fundamentals
-- Build AI-powered applications using LLMs
-- Learn Retrieval-Augmented Generation (RAG)
-- Develop AI Agent and Multi-Agent systems
-- Explore production-ready Generative AI workflows
+- Python
+- LangChain
+- LangGraph
+- OpenAI
+- Google Gemini
+- Hugging Face
+- FAISS
+- ChromaDB
+- Pinecone
+- FastAPI
+- Docker
+- Streamlit
+- Git
+- GitHub
 
 ---
 
-## 📌 Repository Status
+# 💻 Projects
 
-🚧 This repository is actively updated as I progress through the course.
+Some projects that will be included in this repository:
+
+- AI Chatbot
+- PDF Question Answering
+- Resume Analyzer
+- RAG Chatbot
+- AI Research Assistant
+- Multi-Agent System
+- Document Summarizer
+- LLM Applications
+- LangGraph Workflows
+
+More projects will be added as I continue learning.
 
 ---
 
-## 👨‍💻 Author
+# 📈 Learning Progress
+
+- ✅ Python
+- ✅ Machine Learning Basics
+- ✅ NLP
+- 🔄 LangChain (In Progress)
+- ⏳ LangGraph
+- ⏳ Vector Databases
+- ⏳ RAG
+- ⏳ AI Agents
+- ⏳ Deployment
+
+---
+
+# 🎯 Goal
+
+My goal is to become a skilled **AI Engineer** by combining strong fundamentals with real-world project development.
+
+This repository serves as a record of my continuous learning, experimentation, and hands-on implementation of modern AI technologies.
+
+---
+
+# 🤝 Connect with Me
 
 **Ganesh Mangilipelli**
 
-- GitHub: https://github.com/Ganeshmangilipelli
-- LinkedIn: https://linkedin.com/in/mangilipelli-ganesh
+🎓 B.Tech – Cyber Security
+
+💡 AI | Machine Learning | Generative AI | MERN Stack
+
+GitHub:
+https://github.com/Ganeshmangilipelli
+
+LinkedIn:
+https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/
+
+---
+
+# ⭐ Support
+
+If you find this repository useful:
+
+⭐ Star this repository
+
+🍴 Fork it
+
+💬 Share your feedback
+
+---
+
+## 📌 Note
+
+This repository is updated regularly as I progress through the course. Every commit reflects practical learning and hands-on experimentation with modern AI technologies.
+
+**"Consistency beats intensity. One commit at a time." 🚀**
