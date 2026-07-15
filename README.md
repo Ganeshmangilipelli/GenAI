@@ -1,18 +1,16 @@
+# 🚀 Complete Generative AI with LangChain & LangGraph
+
 <div align="center">
 
-# 🚀 Generative AI with LangChain & LangGraph
+### 📚 Hands-on implementations from Krish Naik's Complete Generative AI Course with LangChain & Hugging Face
 
-### A Hands-on Journey into Modern AI Engineering
-
-<p>
-Daily implementations, projects, and experiments while learning <b>Generative AI</b>, <b>LangChain</b>, <b>LangGraph</b>, <b>RAG</b>, <b>AI Agents</b>, and <b>LLM Applications</b>.
-</p>
+Building real-world LLM applications using LangChain, LangGraph, RAG, Vector Databases, AI Agents, MCP, Fine-tuning, and Deployment.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![LangChain](https://img.shields.io/badge/LangChain-Framework-success)
 ![LangGraph](https://img.shields.io/badge/LangGraph-AI-orange)
-![OpenAI](https://img.shields.io/badge/LLMs-GenerativeAI-purple)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![OpenAI](https://img.shields.io/badge/LLM-GenerativeAI-purple)
+![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPOSITORY)
 
 </div>
 
@@ -20,233 +18,216 @@ Daily implementations, projects, and experiments while learning <b>Generative AI
 
 # 📖 About
 
-This repository documents my learning journey into **Generative AI Engineering**.
+This repository documents my hands-on learning journey through **Krish Naik's Complete Generative AI Course with LangChain & Hugging Face**.
 
-I am currently following **Krish Naik's Generative AI with LangChain & LangGraph** course while building projects, completing hands-on implementations, and exploring modern AI technologies.
+Instead of only following tutorials, I implement every concept, organize the code, experiment with different approaches, and push my progress regularly to GitHub.
 
-Instead of only watching tutorials, I believe in **learning by building**. Every concept I learn is implemented, tested, and pushed to this repository.
-
----
-
-# 🎯 Learning Objectives
-
-- Build strong Generative AI fundamentals
-- Master LangChain and LangGraph
-- Develop AI Agents
-- Implement Retrieval-Augmented Generation (RAG)
-- Work with Vector Databases
-- Build Production-ready LLM Applications
-- Learn Prompt Engineering
-- Understand AI Deployment
-- Gain practical AI Engineering experience
+The goal of this repository is to strengthen my AI Engineering skills by building practical LLM applications and production-ready Generative AI systems.
 
 ---
 
-# 📚 Topics Covered
+# 🎯 Course Modules
 
-## Python Fundamentals
+## 🐍 Python & Foundations
 
-- Variables
-- Functions
-- OOP
-- Exception Handling
-- File Handling
-
----
-
-## Machine Learning Basics
-
-- NumPy
-- Pandas
-- Data Preprocessing
-- Scikit-Learn
+- Python Refresher
+- Streamlit with Python
+- Machine Learning for NLP
+- Deep Learning for NLP
 
 ---
 
-## Natural Language Processing
+## 🧠 Deep Learning
 
-- Tokenization
-- Stemming
-- Lemmatization
-- Named Entity Recognition
-- Text Processing
+- ANN Project Implementation
+- Simple RNN
+- LSTM
+- GRU
+- Bidirectional RNN
+- Encoder–Decoder Architecture
+- Attention Mechanism
+- Transformers
 
 ---
 
-## Large Language Models
+## 🤖 Generative AI
 
+- Introduction to LLMs
 - Prompt Engineering
 - OpenAI APIs
+- Ollama
 - Google Gemini
 - Hugging Face
-- LLM Workflows
 
 ---
 
-## LangChain
+## 🔗 LangChain
 
+- LangChain Components
 - Prompt Templates
-- Output Parsers
+- LCEL (LangChain Expression Language)
 - Chains
-- Sequential Chains
-- LCEL
-- Memory
-- Tools
-- Agents
-- Document Loaders
-- Text Splitters
+- Conversation Memory
+- Chat History
+- LangChain V1 Updates
 
 ---
 
-## Vector Databases
+## 📚 Retrieval-Augmented Generation (RAG)
+
+- PDF Question Answering
+- Conversational PDF Chatbot
+- RAG using GROQ + Llama 3
+- PDF Query using AstraDB
+- Hybrid Search RAG
+
+---
+
+## 🗄️ Vector Databases
 
 - Embeddings
-- ChromaDB
 - FAISS
-- Pinecone
-- Similarity Search
-
----
-
-## Retrieval-Augmented Generation (RAG)
-
-- Document Processing
-- Chunking
-- Embeddings
-- Semantic Search
+- AstraDB
 - Hybrid Search
-- Context Retrieval
 
 ---
 
-## LangGraph
+## 🤖 AI Agents
 
-- Graph Workflows
-- Stateful Applications
-- Multi-Agent Systems
-- Conditional Edges
-- Human-in-the-Loop
-
----
-
-## AI Agents
-
-- Tool Calling
-- Agentic Workflows
-- Multi-Agent Collaboration
-- Reasoning Agents
+- LangGraph
+- CrewAI
+- LangChain Agents
+- Deep Agents
+- Stateful Multi-Agent Applications
+- MCP (Model Context Protocol)
 
 ---
 
-## Deployment
+## 📊 Real-World GenAI Projects
 
-- FastAPI
-- Docker
-- Streamlit
-- Cloud Deployment
+- Chatbots with Conversation History
+- End-to-End Q&A Chatbot
+- SQL Database Chat using LangChain SQL Toolkit
+- Search Engine using LangChain Tools & Agents
+- YouTube Video Summarizer
+- Website URL Content Summarizer
+- Text Summarization
+- Text-to-Math Problem Solver (Gemma 2)
+- Multilanguage Code Assistant (CodeLlama)
+
+---
+
+## 🧠 Fine-Tuning
+
+- Fine-tuning LLMs
+- Lamini Platform
+- Hugging Face Integration
+
+---
+
+## 🌐 GraphRAG
+
+- Introduction to Graph Databases
+- Cypher Query Language
+- GraphDB with LangChain
+
+---
+
+## 🚀 Deployment
+
+- Streamlit Deployment
+- Hugging Face Spaces
+- AWS Generative AI
+- NVIDIA NIM
+- Production Deployment
 
 ---
 
 # 📂 Repository Structure
 
 ```
-Generative-AI/
+📦 Complete-Generative-AI
 
-│── 01_Python/
-│── 02_Machine_Learning/
-│── 03_NLP/
-│── 04_LangChain/
-│── 05_Vector_Database/
-│── 06_RAG/
-│── 07_LangGraph/
-│── 08_AI_Agents/
-│── 09_Projects/
-│── 10_Deployment/
-│── README.md
+├── Python
+├── Machine Learning
+├── Deep Learning
+├── LangChain
+├── LangGraph
+├── RAG
+├── Vector Databases
+├── AI Agents
+├── Fine Tuning
+├── GraphRAG
+├── MCP
+├── Projects
+├── Deployment
+└── README.md
 ```
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Technologies
 
 - Python
 - LangChain
 - LangGraph
 - OpenAI
 - Google Gemini
+- Ollama
 - Hugging Face
 - FAISS
-- ChromaDB
-- Pinecone
+- AstraDB
+- Streamlit
 - FastAPI
 - Docker
-- Streamlit
-- Git
-- GitHub
+- AWS
+- CrewAI
+- MCP
+- GraphDB
+- Neo4j
 
 ---
 
-# 💻 Projects
+# 📈 Repository Progress
 
-Some projects that will be included in this repository:
-
-- AI Chatbot
-- PDF Question Answering
-- Resume Analyzer
-- RAG Chatbot
-- AI Research Assistant
-- Multi-Agent System
-- Document Summarizer
-- LLM Applications
-- LangGraph Workflows
-
-More projects will be added as I continue learning.
+- ✅ Hands-on implementations
+- ✅ Daily GitHub commits
+- ✅ Course notes
+- ✅ Practical experiments
+- 🔄 Repository updated regularly as I progress through the course
 
 ---
 
-# 📈 Learning Progress
+# 🎯 Learning Goals
 
-- ✅ Python
-- ✅ Machine Learning Basics
-- ✅ NLP
-- 🔄 LangChain (In Progress)
-- ⏳ LangGraph
-- ⏳ Vector Databases
-- ⏳ RAG
-- ⏳ AI Agents
-- ⏳ Deployment
-
----
-
-# 🎯 Goal
-
-My goal is to become a skilled **AI Engineer** by combining strong fundamentals with real-world project development.
-
-This repository serves as a record of my continuous learning, experimentation, and hands-on implementation of modern AI technologies.
+- Build production-ready LLM applications
+- Master LangChain & LangGraph
+- Build AI Agents
+- Develop RAG pipelines
+- Learn GraphRAG
+- Fine-tune LLMs
+- Deploy scalable AI applications
+- Become an AI Engineer
 
 ---
 
-# 🤝 Connect with Me
+# 👨‍💻 About Me
 
 **Ganesh Mangilipelli**
 
 🎓 B.Tech – Cyber Security
 
-💡 AI | Machine Learning | Generative AI | MERN Stack
+💡 Passionate about Artificial Intelligence, Machine Learning, Generative AI, and Full Stack Development.
 
-GitHub:
-https://github.com/Ganeshmangilipelli
-
-LinkedIn:
-https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/
+Currently building projects while learning modern AI technologies and consistently documenting my progress on GitHub.
 
 ---
 
 # ⭐ Support
 
-If you find this repository useful:
+If you found this repository useful:
 
-⭐ Star this repository
+⭐ Star the repository
 
 🍴 Fork it
 
@@ -256,6 +237,6 @@ If you find this repository useful:
 
 ## 📌 Note
 
-This repository is updated regularly as I progress through the course. Every commit reflects practical learning and hands-on experimentation with modern AI technologies.
+This repository contains my personal implementations and learning notes while following **Krish Naik's Complete Generative AI Course with LangChain & Hugging Face**. The code reflects my understanding, experiments, and continuous learning journey.
 
-**"Consistency beats intensity. One commit at a time." 🚀**
+> **"Learning by building. Improving one commit at a time." 🚀**
